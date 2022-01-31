@@ -1,0 +1,27 @@
+h1{
+color:rgb(63, 7, 95);
+font-family: sans-serif;
+}
+p{
+    font-family: sans-serif;
+}
+
+h3{
+    font-family: sans-serif;
+}
+td{
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+
+th{
+    font-weight: 900;
+    color:white;
+    background-color: #1F92D9;
+}
+table{
+    font-family: Arial, Helvetica, sans-serif;
+    border-collapse: collapse;
+    border-width: 1px;
+    border-style: solid;
+    border-color:#1F92D9 ;
+}
